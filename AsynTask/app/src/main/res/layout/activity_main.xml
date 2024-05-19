@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="do not click me "
+        android:id="@+id/donotclickme"
+        android:layout_marginTop="50dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/threadtext"
+        android:text="aditya"
+        android:layout_gravity="center"
+        android:textSize="28sp"
+        android:layout_marginTop="28sp"
+        />
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the name Heare"
+        android:id="@+id/editText"
+        android:textSize="28sp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="50dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ClickMe"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/clickMe"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview"
+        android:text="aditya"
+        android:layout_gravity="center"
+        android:textSize="28sp"
+        android:layout_marginTop="28sp"
+        />
+
+
+
+
+</LinearLayout>

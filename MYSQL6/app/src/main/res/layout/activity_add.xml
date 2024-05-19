@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddActivity">
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/enterid"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="enter the id"
+        android:inputType="number"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/entername"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="enter  name "
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/enter"
+        android:text="enter"
+        android:layout_gravity="center"
+        />
+
+
+</LinearLayout>

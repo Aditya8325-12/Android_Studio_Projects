@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="b0">Button</string>
+    <string name="b1">Button</string>
+    <string name="b2">Button</string>
+    <string name="b3">Button</string>
+    <string name="b4">Button</string>
+    <string name="b5">Button</string>
+    <string name="b6">Button</string>
+    <string name="b7">Button</string>
+    <string name="b8">Button</string>
+    <string name="b9">Button</string>
+</resources>

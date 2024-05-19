@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background3"
+    android:orientation="vertical"
+    tools:context=".testresult">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="30dp"
+
+        >
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/congratulations_clipart_student_1" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:fontFamily="@font/ppm"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:text="You Won "
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_marginTop="50dp"
+        android:paddingVertical="10dp"
+        android:background="#520320DA"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/linear1"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        >
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:background="#520320DA">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="60dp"
+                android:text="10"
+                android:fontFamily="@font/ppm"
+                android:textColor="@color/white"
+                android:textSize="28sp"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="5dp"
+                android:textAlignment="center"
+                android:text="Total Q."
+                android:fontFamily="@font/ppm"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginHorizontal="20dp"
+            android:orientation="vertical"
+            android:background="#520320DA">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="60dp"
+                android:text="5"
+                android:fontFamily="@font/ppm"
+                android:id="@+id/Incorrect"
+                android:textColor="@color/white"
+                android:textSize="28sp"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="5dp"
+                android:textAlignment="center"
+                android:text="InCorrect Q."
+                android:fontFamily="@font/ppm"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:background="#520320DA">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="60dp"
+                android:text="5"
+                android:id="@+id/correct"
+                android:fontFamily="@font/ppm"
+                android:textColor="@color/white"
+                android:textSize="28sp"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="5dp"
+                android:textAlignment="center"
+                android:text="Correct Q."
+                android:fontFamily="@font/ppm"
+                android:textColor="@color/white"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Play Again "
+        android:layout_gravity="center"
+        android:background="#282BED"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/ppm"
+        android:textColor="@color/white"
+        android:id="@+id/playAgin"/>
+
+</LinearLayout>

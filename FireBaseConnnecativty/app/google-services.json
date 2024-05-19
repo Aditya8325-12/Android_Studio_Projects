@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697718589455",
+    "project_id": "fire-base-connecativity",
+    "storage_bucket": "fire-base-connecativity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697718589455:android:377751461330f6fdca3b7a",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaseconnetivty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697718589455-mj2du51ckmt8a15l17he26krfno3vl29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedatabaseconnetivty",
+            "certificate_hash": "7ce2df546719c659a8c841e793811c60585bafa7"
+          }
+        },
+        {
+          "client_id": "697718589455-00kgpud45vvhkb21vnpefideh6ou5kih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVhbzUMpe2Qn66QdlU4Hs8x6y0jqRT60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697718589455-00kgpud45vvhkb21vnpefideh6ou5kih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

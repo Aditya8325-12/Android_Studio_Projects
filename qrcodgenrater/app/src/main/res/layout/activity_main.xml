@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/productname"
+        android:hint="enter the product name"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="50dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/productvalue"
+        android:hint="enter the product value"
+        android:inputType="number"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="50dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ggenrate"
+        android:id="@+id/genrate"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="@color/teal_200"
+        android:layout_marginTop="20dp"
+        android:id="@+id/qrcodegenrator"/>
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".result_page">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="total_question"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/total_question"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="marks obtain"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/correct"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="Test_name"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/test_name"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="test_type"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/test_type"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="Total_marks"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/total_marks"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="user_id"
+        android:textAlignment="center"
+        android:textSize="27sp"
+        android:id="@+id/user_id"
+        />
+
+
+    <!--    <TextView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginHorizontal="20dp"-->
+    <!--        android:text="55"-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="27sp"-->
+    <!--        android:id="@+id/wrong"-->
+    <!--        />-->
+
+</LinearLayout>

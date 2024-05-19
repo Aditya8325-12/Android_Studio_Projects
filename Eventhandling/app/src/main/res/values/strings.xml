@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eventhandling</string>
+    <string name="dlike">Number of Dislike: 0</string>
+    <string name="like">Number of like: 0</string>
+</resources>

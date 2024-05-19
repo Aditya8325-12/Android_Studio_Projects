@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907096158677",
+    "project_id": "gateexam-b35a2",
+    "storage_bucket": "gateexam-b35a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907096158677:android:5bf1ef4d45dfe9a1d6cd5c",
+        "android_client_info": {
+          "package_name": "com.example.thiredpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907096158677-51c7m1dhqn45duul1fgi7goodknvblag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8M_1_9-iYzJZ0cWh7VHFatv4L39bXzPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907096158677-51c7m1dhqn45duul1fgi7goodknvblag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

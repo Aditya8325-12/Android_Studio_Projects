@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SecoundPage">
+
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="UserName"
+        android:layout_gravity="center"
+        android:fontFamily="@font/font"
+        android:padding="10dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="150dp"
+        android:textSize="28sp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="18dp"
+        android:textSize="28sp"
+        android:padding="7dp"
+        android:background="@drawable/shape"/>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="PassWord"
+        android:fontFamily="@font/font"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="30dp"
+        android:textSize="28sp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginHorizontal="18dp"
+        android:textSize="28sp"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:background="@drawable/shape"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="18dp"
+        android:textSize="28sp"
+        android:text="SignIn"
+        android:textAllCaps="false"
+        android:fontFamily="@font/font"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/shapecolor"
+        android:id="@+id/button"/>
+
+
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/dda"
+        android:background="#2C3FA8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:textSize="20sp"
+        android:text="designin and algortihm"
+        android:layout_marginTop="250dp"/>
+    <Button
+        android:id="@+id/dl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:textSize="20sp"
+        android:background="#2C3FA8"
+        android:text="digital logic"
+        android:layout_marginTop="30dp"/>
+    <Button
+        android:id="@+id/os"
+        android:background="#2C3FA8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:textSize="20sp"
+        android:text="operating system"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/bhr"
+        android:background="#2C3FA8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:textSize="20sp"
+        android:text="Human Rigths"
+        android:layout_marginTop="30dp"/>
+
+
+
+
+
+</LinearLayout>

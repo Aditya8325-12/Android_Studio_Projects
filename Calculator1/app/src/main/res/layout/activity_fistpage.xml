@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fistpage">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/ticket__1_" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/insert"
+        android:layout_gravity="center"
+        android:paddingHorizontal="60sp"
+        android:text="Insert the movie"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/view"
+        android:layout_gravity="center"
+        android:paddingHorizontal="69sp"
+        android:text="View All Movie"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Find"
+        android:layout_gravity="center"
+        android:paddingHorizontal="52sp"
+        android:text="To find The Moview"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/book"
+        android:paddingHorizontal="55sp"
+        android:layout_gravity="center"
+        android:text="Book Movie Ticket"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/all"
+        android:paddingHorizontal="65sp"
+        android:layout_gravity="center"
+        android:text="All Transation"/>
+
+</LinearLayout>

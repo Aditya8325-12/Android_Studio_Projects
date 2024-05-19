@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">async_class</string>
+    <string name="path">http://192.168.155.37/gate_exam_version2/android_process.php</string>
+</resources>

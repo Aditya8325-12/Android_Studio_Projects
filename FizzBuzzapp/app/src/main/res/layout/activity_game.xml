@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".game"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="enter the number"
+       android:layout_marginHorizontal="20dp"
+       android:layout_marginTop="120dp"
+        android:layout_marginBottom="50dp"
+        android:paddingVertical="10dp"
+        android:textSize="28sp"
+        android:gravity="center"
+        android:id="@+id/randomnumber"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fizz"
+        android:layout_gravity="center"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="53dp"
+        android:textSize="20dp"
+        android:id="@+id/fizz"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buzz"
+        android:layout_gravity="center"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="50dp"
+        android:textSize="20dp"
+        android:id="@+id/buzz"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fizzbuzz"
+        android:layout_gravity="center"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="25dp"
+        android:textSize="20dp"
+        android:id="@+id/fizzbuzz"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        android:layout_gravity="center"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="50dp"
+        android:textSize="20dp"
+        android:id="@+id/next"/>
+
+</LinearLayout>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:textSize="58sp"
+        android:fontFamily="@font/font"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="15dp"
+        android:gravity="bottom"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical"
+            android:id="@+id/Home"
+            android:layout_marginHorizontal="20dp"
+            android:background="@drawable/shapecolor">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:fontFamily="@font/font"
+                android:layout_marginHorizontal="10dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Home"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/Service"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical"
+            android:layout_marginHorizontal="10dp"
+            android:background="@drawable/shape">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="S"
+                android:layout_marginHorizontal="10dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font"
+                android:textSize="25sp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Services"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:id="@+id/Contact"
+            android:layout_marginHorizontal="20dp"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical"
+            android:background="@drawable/shape">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:fontFamily="@font/font"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/MyProfile"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical"
+            android:layout_marginHorizontal="10dp"
+            android:background="@drawable/shape">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="M"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:fontFamily="@font/font"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Prof"
+                android:fontFamily="@font/font"
+                android:textColor="@color/white"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

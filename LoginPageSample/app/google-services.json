@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632742414469",
+    "firebase_url": "https://loginsample-9ef66-default-rtdb.firebaseio.com",
+    "project_id": "loginsample-9ef66",
+    "storage_bucket": "loginsample-9ef66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632742414469:android:26891950e5e9628f7001ec",
+        "android_client_info": {
+          "package_name": "com.example.loginpagesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632742414469-evb1ndi9c7kpt59nhsb4r3el3hnqptvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6UbFcNn3CCbec-NUux9-8llYAWrxFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632742414469-evb1ndi9c7kpt59nhsb4r3el3hnqptvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

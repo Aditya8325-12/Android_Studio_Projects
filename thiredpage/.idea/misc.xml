@@ -1,0 +1,57 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/drawable/shape.xml" value="0.213" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/drawable/shape1.xml" value="0.2585" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/drawable/shape2.xml" value="0.2595" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_admin2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_adminactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_adminclass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_admincreate_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_after_homepage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_chapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_create_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_final.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_final_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_newadminclass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_pyqc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_pyqcfinal_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_pyqcpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_pyqfinal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_quizlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_smaple_activty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_test_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_test_instrucation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_testi_ist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_testlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/activity_testresult.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_homefragement.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_setings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/fragment_sharefragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/layout/list.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/menu/appmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aditya dhutraj/AndroidStudioProjects/thiredpage/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
